@@ -7,3 +7,4 @@ Contents:
 2.  [Predicting the stock market](https://github.com/thehamzaq/Quant_Finance/blob/master/Predicting_the_stock_market.ipynb)
 3. [Linear Regression and Univariate Analysis](https://github.com/thehamzaq/Quant_Finance/blob/master/Linear%20Regression%20and%20Univariate%20Analysis.ipynb)
 4. [Volatility and Multivariate Analysis](https://github.com/thehamzaq/Quant_Finance/blob/master/Volatility%20and%20Multivariate%20Analysis.ipynb)
+5. [Algorithmic Trading (FOREX)](https://github.com/thehamzaq/Quant_Finance/blob/master/Algorithmic%20Trading%20(FOREX).ipynb)
